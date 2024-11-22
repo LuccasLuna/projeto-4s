@@ -23,9 +23,9 @@ utilizada é em PHP, será usado o Cloud Azure.
 ## Integrantes do grupo
 
 - LUCAS LUNA DOS SANTOS -- RA: 922205646                                                              
+- RAIANNY CAROLINE DA SILVA MIGUEL -- RA: 922203218                                   
 - DANIEL BRITO FERREIRA -- RA: 922205287                                                   
 - GIOVANA DE MOURA REIS -- RA: 922111565                                                 
-- RAIANNY CAROLINE DA SILVA MIGUEL -- RA: 922203218                                   
 - RICHARD ANGEL DA SILVA MIGUEL -- RA: 922203557
 
 **Documentação completa:** [AzurFrotas.pdf](https://github.com/user-attachments/files/17876918/AzurFrotas.pdf)
