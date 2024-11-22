@@ -19,6 +19,7 @@ utilizada é em PHP, será usado o Cloud Azure.
 - PHP
 - XAMPP
 - MYSQL
+- Azure Cloud
 
 ## Integrantes do grupo
 
@@ -29,4 +30,6 @@ utilizada é em PHP, será usado o Cloud Azure.
 - RICHARD ANGEL DA SILVA MIGUEL -- RA: 922203557
 
 **Documentação completa:** [AzurFrotas.pdf](https://github.com/user-attachments/files/17876918/AzurFrotas.pdf)
-[Cloudfrota.pdf](https://github.com/user-attachments/files/16822631/Cloudfrota.pdf)
+
+**Link do Projeto hospedado:** https://projetos4-hphtfjf0aefbe3f8.brazilsouth-01.azurewebsites.net/
+
